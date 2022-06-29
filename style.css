@@ -1,0 +1,33 @@
+.body_backgorund {
+    background-image: url("https://cdn.dribbble.com/users/438226/screenshots/16695232/media/145ec731468579d04291d11c4c389c65.png?compress=1&resize=400x300&vertical=top");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: rgb(255, 255, 255); 
+      font-size: 30px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 16px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  
